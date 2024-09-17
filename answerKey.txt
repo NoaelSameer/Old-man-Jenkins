@@ -1,0 +1,10 @@
+First:twelve
+Second:yes
+Third:eleven
+Fourth::friday
+Fifth:five
+sixth:twentytwo
+
+firstTrial:7919
+secondTrial:3650109345
+thirdTrial:625
